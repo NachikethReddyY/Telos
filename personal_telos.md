@@ -41,6 +41,9 @@ Other sections that aren't those core sections are additional context to support
 - C3: Someone else has a similar project and it's distracting me and demotivating me
 - C4: Hate dating apps
 
+## INNSECURITIES THAT I AM FACING
+- In1: I cant speak in public! etc.
+
 ## THINGS I'VE BEEN WRONG ABOUT
 
 - Thought AirBnB would shut down all the hotels. But they're doing fine.
